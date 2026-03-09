@@ -74,7 +74,9 @@ Raspberry Pi connects to the internet through Wi-Fi and communicates with the Bl
    A **buzzer** is an electronic audio signaling device used to produce sound for alerts, alarms, or indications in electronic circuits. It converts electrical energy into sound energy and is commonly used in devices such as alarms, timers, computers, and embedded systems. Buzzers are mainly of two types: **active buzzers**, which generate sound when a DC voltage is applied, and **passive buzzers**, which require an external signal or frequency to produce sound. They are widely used in microcontroller and Raspberry Pi projects to provide audible notifications when a specific event or condition occurs.
 
 <img width="609" height="202" alt="image" src="https://github.com/user-attachments/assets/bcc5542a-1a7f-4a97-9268-31219fc0a649" />
-### FIGURE-07 Buzzer
+
+
+ ### FIGURE-07 Buzzer: 
 
 ---
 ### **Procedure:** 
