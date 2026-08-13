@@ -45,7 +45,8 @@ The IR sensor and LDR sensor are connected to the input GPIO pins of the Raspber
 The LED, buzzer, and relay module are connected to the output GPIO pins. These devices act as output indicators or control devices. The relay can control external electrical loads, while the LED and buzzer provide visual and audio alerts.
 Raspberry Pi connects to the internet through Wi-Fi and communicates with the Blynk cloud server. The Blynk mobile application displays the sensor values and allows the user to control the output devices remotely. When a command is given from the Blynk app, Raspberry Pi processes the command and activates or deactivates the connected output devices.
 
-<img width="1042" height="695" alt="image" src="https://github.com/user-attachments/assets/05b34c40-1e93-4eb0-892d-ea30fcd6c59d" />
+<img width="806" height="444" alt="image" src="https://github.com/user-attachments/assets/06b2e0f9-9ab9-43af-a918-be035454db50" />
+
 
 
  ### FIGURE-02 CIRCUIT DIAGRAM: 
